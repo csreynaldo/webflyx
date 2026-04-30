@@ -1,0 +1,60 @@
+[33mcommit 277442fae9421b59de600ce9d9550ae53be1f896[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: csreynaldo <pahayreynaldojr@gmail.com>
+Date:   Wed Apr 29 21:56:20 2026 +0800
+
+    J: overwriting titles.md
+
+[33mcommit 31ca79e935820bed30d13b10b6c2bb5e83fc39d9[m
+Author: csreynaldo <pahayreynaldojr@gmail.com>
+Date:   Wed Apr 29 21:27:55 2026 +0800
+
+    I: adding new quotes
+
+[33mcommit aa3c41cc552ae6144ac0f1c0239c5273dc76ebfd[m
+Author: csreynaldo <pahayreynaldojr@gmail.com>
+Date:   Wed Apr 29 21:26:37 2026 +0800
+
+    H: adding new quotes
+
+[33mcommit 234741c5cfabff7844d82a0a5d59940cb8e4fc73[m[33m ([m[1;32mmain[m[33m)[m
+Author: csreynaldo <pahayreynaldojr@gmail.com>
+Date:   Wed Apr 29 20:48:06 2026 +0800
+
+    G:updating title.md
+
+[33mcommit 326f5961acac8788c84bd4dddd17fbb909895baf[m
+Merge: 12d2d0f b521453
+Author: csreynaldo <pahayreynaldojr@gmail.com>
+Date:   Fri Apr 24 07:05:50 2026 +0800
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 12d2d0f763221c89b34eb6f5daf72afb38a047e7[m
+Author: csreynaldo <pahayreynaldojr@gmail.com>
+Date:   Fri Apr 24 06:59:31 2026 +0800
+
+    E: practice merging
+
+[33mcommit b521453ef16d6da05675352d225e7a65fa6d53b8[m
+Author: csreynaldo <pahayreynaldojr@gmail.com>
+Date:   Fri Apr 24 06:25:55 2026 +0800
+
+    D: creating classics.csv
+
+[33mcommit 384a90ea7b99fb73e5f1b3e14b0b1d8fb02f2f99[m
+Author: csreynaldo <pahayreynaldojr@gmail.com>
+Date:   Thu Apr 23 22:21:03 2026 +0800
+
+    C: add quotes
+
+[33mcommit 7c3de92988ff89d33c9fe383a389d31fd561d4a1[m
+Author: csreynaldo <pahayreynaldojr@gmail.com>
+Date:   Thu Apr 23 21:45:58 2026 +0800
+
+    B: add titles
+
+[33mcommit 9c7205b6e8a63d24dd5ce22485db1bb3b9579481[m
+Author: csreynaldo <pahayreynaldojr@gmail.com>
+Date:   Thu Apr 23 12:25:58 2026 +0800
+
+    A: add contents.md
